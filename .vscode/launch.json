@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SillySubstitutions",
+            "request": "launch",
+            "mainClass": "SillySubstitutions",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch Painter",
+            "request": "launch",
+            "mainClass": "Painter",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch TransformTheString",
+            "request": "launch",
+            "mainClass": "TransformTheString",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapTest",
+            "request": "launch",
+            "mainClass": "HashMapTest",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMap",
+            "request": "launch",
+            "mainClass": "HashMap",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestMain",
+            "request": "launch",
+            "mainClass": "TestMain",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch BellNumber",
+            "request": "launch",
+            "mainClass": "BellNumber",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "practice_a7026e99"
+        },
+        {
+            "type": "java",
+            "name": "Launch Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "practice_a7026e99"
+        }
+    ]
+}
